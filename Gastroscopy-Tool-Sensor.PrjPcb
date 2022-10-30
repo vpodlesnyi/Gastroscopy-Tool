@@ -59,7 +59,7 @@ AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -76,7 +76,7 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -93,7 +93,7 @@ AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VHCMUACD
 
 [Document5]
 DocumentPath=OUTJOB\Gastroscopy-Tool-Sensor.OutJob
@@ -212,7 +212,7 @@ AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -253,68 +253,68 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=GlobalAddress1
-Value=nab. reki Karpovki, d. 5/3E
-
-[Parameter2]
-Name=GlobalAddress2
-Value=Saint-Petersburg, 197022
-
-[Parameter3]
-Name=GlobalAddress3
-Value=Ph: +7 (911) 701-51-99
-
-[Parameter4]
-Name=GlobalCompanyName
-Value=MRobot, LCC
-
-[Parameter5]
-Name=GlobalDocumentNumberDrawingASM
-Value=0000-0000
-
-[Parameter6]
-Name=GlobalDocumentNumberDrawingPCB
-Value=0000-0000
-
-[Parameter7]
-Name=GlobalDocumentNumberPCB
-Value=0000-0000
-
-[Parameter8]
-Name=GlobalDocumentNumberSCH
-Value=0000-0000
-
-[Parameter9]
-Name=GlobalDocumentSubtitle
-Value=Gastroscopy Tool Sensor
-
-[Parameter10]
-Name=GlobalDocumentTitle
-Value=Gastroscopy Tool Sensor
-
-[Parameter11]
-Name=GlobalEngineer
-Value=Podlesnyi Vasilii
-
-[Parameter12]
-Name=GlobalJiraKey
-Value=GSTRTLSNS
-
-[Parameter13]
-Name=GlobalProjectTitle
-Value=Gastroscopy Tool Sensor
-
-[Parameter14]
-Name=GlobalRevisionBOM
+Name=GlobalRevisionSCH
 Value=0.1.0
 
-[Parameter15]
+[Parameter2]
 Name=GlobalRevisionPCB
 Value=0.1.0
 
-[Parameter16]
-Name=GlobalRevisionSCH
+[Parameter3]
+Name=GlobalRevisionBOM
 Value=0.1.0
+
+[Parameter4]
+Name=GlobalProjectTitle
+Value=Gastroscopy Tool Sensor
+
+[Parameter5]
+Name=GlobalJiraKey
+Value=GSTRTLSNS
+
+[Parameter6]
+Name=GlobalEngineer
+Value=Podlesnyi Vasilii
+
+[Parameter7]
+Name=GlobalDocumentTitle
+Value=Gastroscopy Tool Sensor
+
+[Parameter8]
+Name=GlobalDocumentSubtitle
+Value=Gastroscopy Tool Sensor
+
+[Parameter9]
+Name=GlobalDocumentNumberSCH
+Value=0000-0000
+
+[Parameter10]
+Name=GlobalDocumentNumberPCB
+Value=0000-0000
+
+[Parameter11]
+Name=GlobalDocumentNumberDrawingPCB
+Value=0000-0000
+
+[Parameter12]
+Name=GlobalDocumentNumberDrawingASM
+Value=0000-0000
+
+[Parameter13]
+Name=GlobalCompanyName
+Value=MRobot, LCC
+
+[Parameter14]
+Name=GlobalAddress3
+Value=Ph: +7 (911) 701-51-99
+
+[Parameter15]
+Name=GlobalAddress2
+Value=Saint-Petersburg, 197022
+
+[Parameter16]
+Name=GlobalAddress1
+Value=nab. reki Karpovki, d. 5/3E
 
 [Configuration1]
 Name=Sources
@@ -953,36 +953,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
