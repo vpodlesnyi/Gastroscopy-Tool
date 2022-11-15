@@ -252,6 +252,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Industrial-Controller\Design Rule Check - Gastroscopy-Tool-Sensor.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=GlobalAddress1
 Value=nab. reki Karpovki, d. 5/3E
