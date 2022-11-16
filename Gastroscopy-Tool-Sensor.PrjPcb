@@ -9,7 +9,7 @@ OpenOutputs=1
 ArchiveProject=0
 TimestampOutput=0
 SeparateFolders=0
-TemplateLocationPath=C:\Users\Naval\OneDrive\Документы\Industrial-Controller\TEMPLATES\
+TemplateLocationPath=C:\Users\Naval\OneDrive\Документы\Gastroscopy-Tool\TEMPLATES\
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
 AllowPortNetNames=0
@@ -55,7 +55,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -72,7 +72,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -89,7 +89,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -208,7 +208,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=3
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -252,73 +252,90 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document13]
+DocumentPath=SCH\Gastroscopy-Controller_Title.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FUUXVETY
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Industrial-Controller\Design Rule Check - Gastroscopy-Tool-Sensor.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=GlobalAddress1
-Value=nab. reki Karpovki, d. 5/3E
-
-[Parameter2]
-Name=GlobalAddress2
-Value=Saint-Petersburg, 197022
-
-[Parameter3]
-Name=GlobalAddress3
-Value=Ph: +7 (911) 701-51-99
-
-[Parameter4]
-Name=GlobalCompanyName
-Value=MRobot, LCC
-
-[Parameter5]
-Name=GlobalDocumentNumberDrawingASM
-Value=0000-0000
-
-[Parameter6]
-Name=GlobalDocumentNumberDrawingPCB
-Value=0000-0000
-
-[Parameter7]
-Name=GlobalDocumentNumberPCB
-Value=0000-0000
-
-[Parameter8]
-Name=GlobalDocumentNumberSCH
-Value=0000-0000
-
-[Parameter9]
-Name=GlobalDocumentSubtitle
-Value=Gastroscopy Tool Sensor
-
-[Parameter10]
-Name=GlobalDocumentTitle
-Value=Gastroscopy Tool Sensor
-
-[Parameter11]
-Name=GlobalEngineer
-Value=Podlesnyi Vasilii
-
-[Parameter12]
-Name=GlobalJiraKey
-Value=GSTRTLSNS
-
-[Parameter13]
-Name=GlobalProjectTitle
-Value=Gastroscopy Tool Sensor
-
-[Parameter14]
-Name=GlobalRevisionBOM
+Name=GlobalRevisionSCH
 Value=0.1.0
 
-[Parameter15]
+[Parameter2]
 Name=GlobalRevisionPCB
 Value=0.1.0
 
-[Parameter16]
-Name=GlobalRevisionSCH
+[Parameter3]
+Name=GlobalRevisionBOM
 Value=0.1.0
+
+[Parameter4]
+Name=GlobalProjectTitle
+Value=Gastroscopy Tool Sensor
+
+[Parameter5]
+Name=GlobalJiraKey
+Value=GSTRTLSNS
+
+[Parameter6]
+Name=GlobalEngineer
+Value=Podlesnyi Vasilii
+
+[Parameter7]
+Name=GlobalDocumentTitle
+Value=Gastroscopy Tool Sensor
+
+[Parameter8]
+Name=GlobalDocumentSubtitle
+Value=Gastroscopy Tool Sensor
+
+[Parameter9]
+Name=GlobalDocumentNumberSCH
+Value=0000-0000
+
+[Parameter10]
+Name=GlobalDocumentNumberPCB
+Value=0000-0000
+
+[Parameter11]
+Name=GlobalDocumentNumberDrawingPCB
+Value=0000-0000
+
+[Parameter12]
+Name=GlobalDocumentNumberDrawingASM
+Value=0000-0000
+
+[Parameter13]
+Name=GlobalCompanyName
+Value=MRobot, LCC
+
+[Parameter14]
+Name=GlobalAddress3
+Value=Ph: +7 (911) 701-51-99
+
+[Parameter15]
+Name=GlobalAddress2
+Value=Saint-Petersburg, 197022
+
+[Parameter16]
+Name=GlobalAddress1
+Value=nab. reki Karpovki, d. 5/3E
 
 [Configuration1]
 Name=Sources
@@ -739,6 +756,12 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
+OutputType9=Export Project History
+OutputName9=Export Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
