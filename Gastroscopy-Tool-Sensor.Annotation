@@ -206,17 +206,20 @@ PhysicalDesignatorLocked28=0
 [SheetNumberManager]
 SheetNumberOrder=Display Order
 SheetNumberMethod=Increasing
-DocumentName0=Gastroscopy-Tool-Sensor_Overview.SchDoc
+DocumentName0=Gastroscopy-Controller_Title.SchDoc
 UniqueIDPath0=
 SheetNumber0=1
-DocumentName1=Gastroscopy-Tool-Sensor_Connectors.SchDoc
-UniqueIDPath1=\ZPABQTFB
+DocumentName1=Gastroscopy-Tool-Sensor_Overview.SchDoc
+UniqueIDPath1=\YBWBUABX
 SheetNumber1=2
-DocumentName2=Gastroscopy-Tool-Sensor_TOF.SchDoc
-UniqueIDPath2=\GNMELJUL
+DocumentName2=Gastroscopy-Tool-Sensor_Connectors.SchDoc
+UniqueIDPath2=\YBWBUABX\ZPABQTFB
 SheetNumber2=3
-DocumentName3=Gastroscopy-Tool-Sensor_LED.SchDoc
-UniqueIDPath3=\BLHIQUJY
+DocumentName3=Gastroscopy-Tool-Sensor_TOF.SchDoc
+UniqueIDPath3=\YBWBUABX\GNMELJUL
 SheetNumber3=4
+DocumentName4=Gastroscopy-Tool-Sensor_LED.SchDoc
+UniqueIDPath4=\YBWBUABX\BLHIQUJY
+SheetNumber4=5
 
 
