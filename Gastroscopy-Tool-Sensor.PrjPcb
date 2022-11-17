@@ -269,71 +269,165 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUUXVETY
 
+[Document14]
+DocumentPath=PCB\Gastroscopy-Tool-Base.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BRJFTKRC
+
+[Document15]
+DocumentPath=OUTJOB\Gastroscopy-Tool-Sensor-Base.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Industrial-Controller\Design Rule Check - Gastroscopy-Tool-Sensor.html
+DocumentPath=Project Outputs for Industrial-Controller\Design Rule Check - Gastroscopy-Tool-Base.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.EXTREP
+DocumentPath=Project Outputs for Industrial-Controller\Design Rule Check - Gastroscopy-Tool-Sensor.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.G1
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.G2
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBL
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.G1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBO
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.G2
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBS
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GM1
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTL
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTO
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTS
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.REP
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.RUL
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=OUTPUT\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.DRR
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=OUTPUT\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.LDP
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=OUTPUT\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.TXT
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=OUTPUT\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=OUTPUT\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=OUTPUT\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\STEP 3D\Gastroscopy-Tool-Sensor_STEP_3D_Rev_0.1.0_No Variations.step
+DItemRevisionGUID=
+
+[GeneratedDocument32]
 DocumentPath=OUTPUT\STEP 3D\Gastroscopy-Tool-Sensor_STEP_3D_Rev_0.1.0_No Variations.step
 DItemRevisionGUID=
 
@@ -1044,36 +1138,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

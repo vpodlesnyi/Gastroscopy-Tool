@@ -1,0 +1,90 @@
+*************************************************************
+FileName = Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Solder
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GM1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
