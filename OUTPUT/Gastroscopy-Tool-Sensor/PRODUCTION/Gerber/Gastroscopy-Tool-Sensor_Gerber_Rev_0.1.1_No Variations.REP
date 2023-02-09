@@ -1,32 +1,30 @@
 *************************************************************
-FileName = Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBR
+FileName = Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GBR
 AutoAperture = True
 *************************************************************
 Generating : Board Outline
-      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GM1
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GM1
 
     Adding Layer      : Board Outline
 
 
 Used DCodes :
-    D55
+    D33
 *************************************************************
 
 *************************************************************
 Generating : Bottom Overlay
-      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBO
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GBO
 
     Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D11
-    D54
 *************************************************************
 
 *************************************************************
 Generating : Bottom Solder
-      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBS
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GBS
 
     Adding Layer      : Bottom Solder
 
@@ -36,22 +34,14 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D16
     D17
     D19
-    D21
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
+    D20
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTS
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GTS
 
     Adding Layer      : Top Solder
 
@@ -70,12 +60,11 @@ Used DCodes :
     D18
     D19
     D20
-    D21
 *************************************************************
 
 *************************************************************
 Generating : Top Overlay
-      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTO
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GTO
 
     Adding Layer      : Top Overlay
 
@@ -87,7 +76,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Layer
-      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBL
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -97,29 +86,14 @@ Generating : Bottom Layer
 Used DCodes :
     D11
     D26
-    D27
     D29
     D31
     D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
 *************************************************************
 
 *************************************************************
 Generating : Layer 3 (PWR)
-      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.G2
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.G2
 
     Adding Layer      : Layer 3 (PWR)
 
@@ -127,14 +101,13 @@ Generating : Layer 3 (PWR)
 
 
 Used DCodes :
-    D11
-    D34
-    D35
+    D31
+    D32
 *************************************************************
 
 *************************************************************
 Generating : Layer 2 (GND)
-      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.G1
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.G1
 
     Adding Layer      : Layer 2 (GND)
 
@@ -142,12 +115,13 @@ Generating : Layer 2 (GND)
 
 
 Used DCodes :
-    D34
+    D31
+    D32
 *************************************************************
 
 *************************************************************
 Generating : Top Layer
-      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTL
+      File : Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GTL
 
     Adding Layer      : Top Layer
 
@@ -156,6 +130,7 @@ Generating : Top Layer
 
 Used DCodes :
     D11
+    D21
     D22
     D23
     D24
@@ -167,8 +142,5 @@ Used DCodes :
     D30
     D31
     D32
-    D33
-    D34
-    D35
 *************************************************************
 

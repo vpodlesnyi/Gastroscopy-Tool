@@ -1,16 +1,16 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Gastroscopy-Tool-Sensor.PcbDoc   17.11.2022  12:12:06
+NCDrill File Report For: Gastroscopy-Tool-Sensor.PcbDoc   09.02.2023  21:39:18
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.TXT
+ASCII RoundHoles File : Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.1_No Variations.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             33        PTH        59.27mm (2.33inch)
-T2      0.3mm (12mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T1      0.2mm (8mil)                                              Round             15        PTH        28.78mm (1.13inch)
+T2      0.5mm (20mil)                                             Round             8         PTH        29.18mm (1.15inch)
 T3      0.8mm (31mil)                                             Round             4         PTH        28.00mm (1.10inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              38
+Totals                                                                              27
 
 Total Processing Time (hh:mm:ss) : 00:00:00

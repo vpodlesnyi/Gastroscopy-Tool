@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Gastroscopy-Tool-Sensor.OutJob
 Description=
 TargetOutputMedium=STEP 3D
 VariantName=[No Variations]
@@ -148,7 +148,7 @@ PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration7_Name1=ColumnNameFormat
 Configuration7_Item1=CaptionAsName
 Configuration7_Name2=General
-Configuration7_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Naval\OneDrive\Документы\Gastroscopy-Tool\TEMPLATES\BOM.xltx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration7_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\vasilii\Documents\Gastroscopy-Tool\TEMPLATES\BOM.xltx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
 Configuration7_Name3=GroupOrder
 Configuration7_Item3=Comment=True|Footprint=True
 Configuration7_Name4=SortOrder
@@ -245,7 +245,7 @@ OutputFileNameMulti4==ProjectName+_+OutputType+_Rev_+GlobalRevisionPCB+_+Variant
 UseOutputNameForMulti4=0
 OutputFileNameSpecial4=
 OpenOutput4=1
-OutputFilePath5=C:\Users\Naval\OneDrive\Документы\Gastroscopy-Tool\OUTPUT\Gastroscopy-Tool-Sensor\BOM\
+OutputFilePath5=C:\Users\vasilii\Documents\Gastroscopy-Tool\OUTPUT\Gastroscopy-Tool-Sensor\BOM\
 ReleaseManaged5=0
 OutputBasePath5=OUTPUT\Gastroscopy-Tool-Sensor\
 OutputPathMedia5=[Media Name]
@@ -258,7 +258,7 @@ OutputFileNameMulti5==ProjectName+_BOM_Rev_+GlobalRevisionBOM+_+VariantName
 UseOutputNameForMulti5=0
 OutputFileNameSpecial5=
 OpenOutput5=1
-OutputFilePath6=C:\Users\Naval\OneDrive\Документы\Gastroscopy-Tool\OUTPUT\Gastroscopy-Tool-Sensor\STEP 3D\
+OutputFilePath6=C:\Users\vasilii\Documents\Gastroscopy-Tool\OUTPUT\Gastroscopy-Tool-Sensor\STEP 3D\
 ReleaseManaged6=0
 OutputBasePath6=OUTPUT\Gastroscopy-Tool-Sensor\
 OutputPathMedia6=[Media Name]
@@ -287,7 +287,7 @@ OpenGerberOutput4=0
 OpenNCDrillOutput4=0
 OpenIPCOutput4=0
 EnableReload4=0
-RelativeOutputPath5=C:\Users\Naval\OneDrive\Документы\Gastroscopy-Tool\OUTPUT\Gastroscopy-Tool-Sensor\BOM\
+RelativeOutputPath5=C:\Users\vasilii\Documents\Gastroscopy-Tool\OUTPUT\Gastroscopy-Tool-Sensor\BOM\
 OpenOutputs5=1
 AddToProject5=1
 TimestampFolder5=0
@@ -297,7 +297,7 @@ OpenGerberOutput5=0
 OpenNCDrillOutput5=0
 OpenIPCOutput5=0
 EnableReload5=0
-RelativeOutputPath6=C:\Users\Naval\OneDrive\Документы\Gastroscopy-Tool\OUTPUT\Gastroscopy-Tool-Sensor\STEP 3D\
+RelativeOutputPath6=C:\Users\vasilii\Documents\Gastroscopy-Tool\OUTPUT\Gastroscopy-Tool-Sensor\STEP 3D\
 OpenOutputs6=1
 AddToProject6=1
 TimestampFolder6=0

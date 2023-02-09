@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Naval\OneDrive\Документы\Gastroscopy-Tool\PCB\Gastroscopy-Tool-Sensor.PcbDoc
+DRC Rules Export File for PCB: C:\Users\vasilii\Documents\Gastroscopy-Tool\PCB\Gastroscopy-Tool-Sensor.PcbDoc
 RuleKind=MinimumAnnularRing|RuleName=Minimum AR PAD Standart|Scope=Board|Minimum=5.91
 RuleKind=MinimumAnnularRing|RuleName=Minimum AR VIA Standart|Scope=Board|Minimum=5.91
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

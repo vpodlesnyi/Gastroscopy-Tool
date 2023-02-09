@@ -9,7 +9,7 @@ OpenOutputs=1
 ArchiveProject=0
 TimestampOutput=0
 SeparateFolders=0
-TemplateLocationPath=C:\Users\Naval\OneDrive\Документы\Gastroscopy-Tool\TEMPLATES\
+TemplateLocationPath=C:\Users\vasilii\Documents\Gastroscopy-Tool\TEMPLATES\
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
 AllowPortNetNames=0
@@ -300,124 +300,192 @@ DocumentPath=Project Outputs for Industrial-Controller\Design Rule Check - Gastr
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.EXTREP
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\BOM\Gastroscopy-Tool-Sensor_BOM_Rev_0.1.1_No Variations.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBL
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBO
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBS
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GM1
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTL
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTO
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTS
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.REP
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.RUL
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.REP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.DRR
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.0_No Variations.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.LDP
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.TXT
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.G1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.G2
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\Gerber\Gastroscopy-Tool-Sensor_Gerber_Rev_0.1.1_No Variations.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.0_No Variations.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.1_No Variations.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.1_No Variations.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\PRODUCTION\NC Drill\Gastroscopy-Tool-Sensor_NC Drill_Rev_0.1.1_No Variations.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument31]
 DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor-Base\STEP 3D\Gastroscopy-Tool-Sensor_STEP_3D_Rev_0.1.0_No Variations.step
 DItemRevisionGUID=
 
+[GeneratedDocument32]
+DocumentPath=OUTPUT\Gastroscopy-Tool-Sensor\STEP 3D\Gastroscopy-Tool-Sensor_STEP_3D_Rev_0.1.1_No Variations.step
+DItemRevisionGUID=
+
 [Parameter1]
-Name=GlobalRevisionSCH
-Value=0.1.1
+Name=GlobalAddress1
+Value=nab. reki Karpovki, d. 5/3E
 
 [Parameter2]
-Name=GlobalRevisionPCB
-Value=0.1.1
-
-[Parameter3]
-Name=GlobalRevisionBOM
-Value=0.1.1
-
-[Parameter4]
-Name=GlobalProjectTitle
-Value=Gastroscopy Tool Sensor
-
-[Parameter5]
-Name=GlobalJiraKey
-Value=GSTRTLSNS
-
-[Parameter6]
-Name=GlobalEngineer
-Value=Podlesnyi Vasilii
-
-[Parameter7]
-Name=GlobalDocumentTitle
-Value=Gastroscopy Tool Sensor
-
-[Parameter8]
-Name=GlobalDocumentSubtitle
-Value=Gastroscopy Tool Sensor
-
-[Parameter9]
-Name=GlobalDocumentNumberSCH
-Value=0000-0000
-
-[Parameter10]
-Name=GlobalDocumentNumberPCB
-Value=0000-0000
-
-[Parameter11]
-Name=GlobalDocumentNumberDrawingPCB
-Value=0000-0000
-
-[Parameter12]
-Name=GlobalDocumentNumberDrawingASM
-Value=0000-0000
-
-[Parameter13]
-Name=GlobalCompanyName
-Value=MRobot, LCC
-
-[Parameter14]
-Name=GlobalAddress3
-Value=Ph: +7 (911) 701-51-99
-
-[Parameter15]
 Name=GlobalAddress2
 Value=Saint-Petersburg, 197022
 
+[Parameter3]
+Name=GlobalAddress3
+Value=Ph: +7 (911) 701-51-99
+
+[Parameter4]
+Name=GlobalCompanyName
+Value=MRobot, LCC
+
+[Parameter5]
+Name=GlobalDocumentNumberDrawingASM
+Value=0000-0000
+
+[Parameter6]
+Name=GlobalDocumentNumberDrawingPCB
+Value=0000-0000
+
+[Parameter7]
+Name=GlobalDocumentNumberPCB
+Value=0000-0000
+
+[Parameter8]
+Name=GlobalDocumentNumberSCH
+Value=0000-0000
+
+[Parameter9]
+Name=GlobalDocumentSubtitle
+Value=Gastroscopy Tool Sensor
+
+[Parameter10]
+Name=GlobalDocumentTitle
+Value=Gastroscopy Tool Sensor
+
+[Parameter11]
+Name=GlobalEngineer
+Value=Podlesnyi Vasilii
+
+[Parameter12]
+Name=GlobalJiraKey
+Value=GSTRTLSNS
+
+[Parameter13]
+Name=GlobalProjectTitle
+Value=Gastroscopy Tool Sensor
+
+[Parameter14]
+Name=GlobalRevisionBOM
+Value=0.1.1
+
+[Parameter15]
+Name=GlobalRevisionPCB
+Value=0.1.1
+
 [Parameter16]
-Name=GlobalAddress1
-Value=nab. reki Karpovki, d. 5/3E
+Name=GlobalRevisionSCH
+Value=0.1.1
 
 [Configuration1]
 Name=Sources
